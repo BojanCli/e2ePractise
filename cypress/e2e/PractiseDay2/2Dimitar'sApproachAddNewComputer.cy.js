@@ -1,4 +1,4 @@
-import ComputerInforDimitar from './helpers/2ComputerInforDimitar'
+import ComputerInforDimitar from './helpers/2ComputerInfoDimitar'
  
 describe('Add Computer Tests', () => {
     require('../utilities/testSetup.cy')

@@ -1,0 +1,22 @@
+{
+    "clickFiveTimes": 5,
+    "paginationTextOn5thPage": "Displaying 51 to 60 of 574",
+    "secondRow": 2,
+    "thirdComputerName": "Apple IIc",
+
+    "numberOfTimesClickedNext": [1, 2, 3, 4, 5],
+    "paginationText": [
+        "Displaying 11 to 20 of 574",
+        "Displaying 21 to 30 of 574",
+        "Displaying 31 to 40 of 574",
+        "Displaying 41 to 50 of 574",
+        "Displaying 51 to 60 of 574"
+    ],
+    "computersInThirdRow": [
+        "ASUS Eee PC 701",
+        "Altair 8800",
+        "Amiga 2500",
+        "Amstrad CPC 464",
+        "Apple IIc"
+    ]
+}
