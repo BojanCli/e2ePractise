@@ -1,0 +1,9 @@
+{
+    "id": 10000001,
+    "category": {
+      "id": 11110001,
+      "name": "pet_1"
+    },
+    "name": "dog",
+    "status": "available"
+  }
